@@ -18,6 +18,8 @@ A fully responsive and interactive 3D website built using **React**, **TailwindC
 - **TailwindCSS**  
 - **Spline 3D Embed**  
 - **AOS Library**
-- 
-## 📁 Folder Structure
 
+🙋‍♂️ Author
+- Sanjay L
+- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/sanjay-l-15663a224)
+- 🔗 GitHub: [DataSciSanjay](https://github.com/DataSciSanjay)
