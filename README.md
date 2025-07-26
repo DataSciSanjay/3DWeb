@@ -2,6 +2,8 @@
 
 A fully responsive and interactive 3D website built using **React**, **TailwindCSS**, **Spline**, and **AOS**. Designed to work beautifully across all devices and provide a smooth, immersive experience.
 
+![3D Website Preview](https://github.com/DataSciSanjay/3DWeb/blob/main/frontEnd.png?raw=true)
+
 ## 🚀 Features
 
 - 🔷 3D Design using [Spline](https://spline.design)
